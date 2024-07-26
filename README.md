@@ -36,13 +36,16 @@ To use the ransomware simulation:
     ```sh
     python main.py
     ```
+    
+## Screenshots
 
-2. **Use the GUI** to select the restricted area and choose files for encryption or decryption. The interface will guide you through the process.
+<img src="https://github.com/user-attachments/assets/baa745b8-c770-4459-8b1d-145010c79397" alt="Image 1" width="800" height="500"/>
+<img src="https://github.com/user-attachments/assets/f8136bdf-adf8-4d9c-be1f-01c9a325cd18" alt="Image 3" width="500" height="300"/></td>
+<img src="https://github.com/user-attachments/assets/39daaceb-738d-4f3e-b882-32840871d022" alt="Image 2" width="500" height="300"/></td>
 
-## Examples
 
-- **Encrypt files**: Select the restricted area and use the provided options in the GUI to encrypt files.
-- **Decrypt files**: Use the decryption feature in the GUI to restore files to their original state.
+
+
 
 ## Safety and Ethical Use
 
